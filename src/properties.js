@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'SurVis Literature Collection';
+var title = 'A literature browser of 10 reviewed papers on NLP-based citizen feedback, sentiment analysis, e-government, and smart city applications';
 
 /**
  * Relative path to the data directory
