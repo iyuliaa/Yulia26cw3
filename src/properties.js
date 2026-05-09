@@ -54,7 +54,7 @@ var editable = true;
  * @type {{html: string, id: string}}
  */
 var paper = {
-    html: 'A literature browser of 10 reviewed papers on NLP-based citizen feedback, sentiment analysis, e-government, and smart city applications'
+    html: 'A SurVis browser of 10 papers on NLP-based citizen feedback and e-government analysis'
 };
 
 /**
